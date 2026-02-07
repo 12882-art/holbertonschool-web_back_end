@@ -1,1 +1,1 @@
-show databases
+db.adminCommand({listDatabases: 1})
