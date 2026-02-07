@@ -1,1 +1,1 @@
-db.adminCommand({listDatabases: 1})
+Show dbs
